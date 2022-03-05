@@ -65,12 +65,12 @@
 ## Categorize o objeto
 - Crie um objeto que possua atributos nome e categoria
   - Exemplo:
-  ```java
-  class Filme {
-    String nome;
-    String categoria;
-  }
-  ```
+    ```java
+    class Filme {
+      String nome;
+      String categoria;
+    }
+    ```
 - Crie um método que receba uma lista de filmes (ao menos 10 itens na lista) e retorne a quantidade por categoria;
   - Resultado esperado:
     ```java
