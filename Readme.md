@@ -21,7 +21,7 @@
 
 ## Quais são os números pares?
 
-- Receba um número inteiro > 0 e retorne dos os números pares contidos nesse número inclusive o passado (caso se encaixe).
+- Receba um número inteiro > 0 e retorne todos os números pares contidos nesse número inclusive o passado (caso se encaixe).
 
   - Exemplo:
     int i = 10
